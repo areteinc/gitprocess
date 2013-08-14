@@ -1,0 +1,6 @@
+[user]
+	name = XXX
+	email = username@company.com
+[core]
+	autocrlf = true
+	editor = 'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin
