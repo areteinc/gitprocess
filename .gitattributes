@@ -1,0 +1,29 @@
+# -----------------------------------------
+# Text Files:
+#   This setting tells git to always normalize the files specified. 
+#   When committed they are stored with LF, 
+#   on checkout they are converted to the OS's native line endings.
+
+*.prg text
+*.sql text
+*.xsd text
+*.xml text
+
+
+# -----------------------------------------
+# Binary Files:
+#   This setting tells git that the files specified are not text at all, and 
+#   it should not try to change them. 
+#   The binary setting is an alias for -text -diff.
+
+*.scx binary
+*.sct binary
+      
+*.dbf binary
+*.cdx binary
+      
+*.vcx binary
+*.vct binary
+      
+*.frx binary
+*.frt binary

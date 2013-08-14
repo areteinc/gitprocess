@@ -1,0 +1,67 @@
+# custom folders
+config/
+datasets/
+
+# compiled source
+*.fxp
+*.bak
+
+foxuser.*
+*.bak
+*.log
+*.fxp
+*.dbf
+*.cdx
+*.fpt
+*.tbk
+*.dbc
+*.dct
+_sgbak
+_sgvault
+get.bat
+
+
+
+# vault temp folders
+p8/system/_sgbak
+p8/prg/_sgbak
+p8/prg/ltuf/_sgbak
+p8/prg/supp/_sgbak
+p8/prg/deprecated/_sgbak
+p8/system/schema/_sgbak
+p8/system/app/_sgbak
+p8/system/custom/_sgbak
+p8/scx/_sgbak
+p8/scx/ltuf/_sgbak
+p8/scx/supp/_sgbak
+p8/dbo/_sgbak
+p8/dbo/deprecated/_sgbak
+p8/interface-xml/_sgbak
+p8/interface-xml/scale/_sgbak
+p8/vcx/_sgbak
+
+e8/prg/_sgbak
+e8/prg/deprecated/_sgbak
+e8/prg/stru/_sgbak
+e8/scx/_sgbak
+e8/scx/ltuf/_sgbak
+e8/scx/deprecated/_sgbak
+e8/scx/stru/_sgbak
+e8/frx/_sgbak
+e8/schema/custom/deprecated/_sgbak
+e8/schema/system/deprecated/_sgbak
+e8/scripts/oracle diagnostic tool/_sgbak
+e8/vcx/_sgbak
+e8/vcx/deprecated/_sgbak
+
+menu/_sgbak
+
+# log files
+PopulatePOYnPOQ_CalPeriod.txt
+UpdateParcels.txt
+
+# dev temp folders
+p8/prg/temp
+p8/prg/ltuf/temp
+p8/scx/ltuf/temp
+p8/system/temp
